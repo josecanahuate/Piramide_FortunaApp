@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Piramide de la Fortuna</string>
+    <string name="soñarcon">Soñar con:</string>
+    <string name="palabra"></string>
+    <string name="home"></string>
+    <string name="suerte"></string>
+    <string name="comofunciona">¿Cómo funciona?</string>
+    <string name="masapps">Más Apps</string>
+    <string name="calificanos">Califícanos</string>
+    <string name="tabla">Tabla de Números</string>
+    <string name="anunciobanner">ca-app-pub-4434685305331116/2959471417</string>
+
+    <string name="dia">DIA</string>
+    <string name="mes">MES</string>
+    <string name="año">AÑO</string>
+
+</resources>

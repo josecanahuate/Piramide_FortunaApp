@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/suerte"
+        android:title="@string/suerte"
+        android:icon="@drawable/baseline_date_range_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/comofunciona"
+        android:title="@string/comofunciona" />
+
+    <item
+        android:id="@+id/mas"
+        android:title="@string/masapps" />
+
+    <item
+        android:id="@+id/calificanos"
+        android:title="@string/calificanos" />
+</menu>

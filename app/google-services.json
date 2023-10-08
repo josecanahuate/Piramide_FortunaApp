@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129629264241",
+    "project_id": "piramide-de-la-fortuna",
+    "storage_bucket": "piramide-de-la-fortuna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129629264241:android:dbf61eef20a3e216833ed0",
+        "android_client_info": {
+          "package_name": "com.pyramid.piramidedelafortuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129629264241-m68l1294e8l038pfagtkqn19ghbrv3c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pyramid.piramidedelafortuna",
+            "certificate_hash": "05f24c23dd47bad37fc81f921225b9374e86d185"
+          }
+        },
+        {
+          "client_id": "129629264241-965okkvt2c0a2jq8ocvbkaq3kp1ntmig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHdGgvdiT__XuFy_SM2u1l2qMcJKCbpMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129629264241-965okkvt2c0a2jq8ocvbkaq3kp1ntmig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
